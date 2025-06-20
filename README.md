@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+![adl](https://github.com/user-attachments/assets/a38343d5-a1e2-4c28-81f6-3d0bbddf6072)
 
 <h1>Managing Accounts and Group Policies in Active Directory</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
