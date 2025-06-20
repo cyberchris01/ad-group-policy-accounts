@@ -1,6 +1,6 @@
 ![adl](https://github.com/user-attachments/assets/a38343d5-a1e2-4c28-81f6-3d0bbddf6072)
 
-<h1>Managing Accounts and Group Policies in Active Directory</h1>
+<h1>Managing Accounts & Group Policy Objects in Active Directory</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
